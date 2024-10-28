@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16mm"
+   height="16mm"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="icon.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="16"
+       height="16"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <clipPath
+       id="SVGID_00000116943135293807647120000017482165844090227119_">
+      <use
+         xlink:href="#SVGID_00000052095596423694945380000013843768317833665419_"
+         style="overflow:visible"
+         id="use40" />
+    </clipPath>
+    <circle
+       id="SVGID_00000052095596423694945380000013843768317833665419_"
+       transform="matrix(0.2188,-0.9758,0.9758,0.2188,-76.1106,648.7387)"
+       cx="367.11301"
+       cy="371.90399"
+       r="17.379" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g42"
+       transform="matrix(0.4096918,0,0,0.41903236,-142.42902,-147.8338)">
+      <circle
+         transform="matrix(0.2188,-0.9758,0.9758,0.2188,-76.1106,648.7387)"
+         style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         cx="367.11301"
+         cy="371.90399"
+         id="ellipse40"
+         r="17.379" />
+      <g
+         id="g41">
+        <defs
+           id="defs40" />
+        <clipPath
+           id="clipPath1">
+          <use
+             xlink:href="#SVGID_00000052095596423694945380000013843768317833665419_"
+             style="overflow:visible"
+             id="use1" />
+        </clipPath>
+        <path
+           style="clip-rule:evenodd;fill:#424242;fill-rule:evenodd"
+           d="m 368.047,360.147 c 0.544,1.405 0.618,0.831 0.618,2.349 v 8.81 h 0.819 v -8.854 c 0,-1.421 -0.025,-0.965 0.426,-2.305 0.544,1.405 0.508,0.831 0.508,2.349 l 0.22,11.359 v 1.842 c 0,1.074 -0.995,1.719 -1.839,2.237 -2.595,1.583 1.398,33.874 0.255,41.125 -0.993,6.3 -2.892,6.283 -3.883,0 -1.144,-7.251 2.852,-39.541 0.256,-41.125 -0.846,-0.518 -1.839,-1.163 -1.839,-2.237 v -1.842 l 0.219,-11.403 c 0,-1.421 -0.023,-0.965 0.427,-2.305 0.543,1.405 0.508,0.831 0.508,2.349 v 8.81 h 0.82 v -8.854 c 0,-1.421 0.086,-0.965 0.535,-2.305 0.544,1.405 0.618,0.831 0.618,2.349 v 8.81 h 0.798 v -8.854 c -10e-4,-1.422 0.084,-0.966 0.534,-2.305 z"
+           clip-path="url(#SVGID_00000116943135293807647120000017482165844090227119_)"
+           id="path40" />
+      </g>
+    </g>
+  </g>
+</svg>
